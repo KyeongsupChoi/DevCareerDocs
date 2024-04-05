@@ -24,3 +24,7 @@ TBA
 ## Korea IT Job Market Report
 
 TBA
+
+## Starting at a Company Guide
+
+TBA
