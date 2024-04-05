@@ -11,20 +11,26 @@ Developer Career Docs
 
 [SGE_ENG] - Korea Survival Guide for Expat Developers.pdf
 
-## Interview Questions - Absorbed into Rubric
-
-[IQ_ENG] - interview_questions_eng.pdf
-
-[IQ_KOR] - 면접 질문.pdf
-
 ## Entry Level Dev Checklist
 
-TBA
+[ELD_ENG] - TBA
+
+[ELD_KOR] - TBA
 
 ## Korea IT Job Market Report
 
-TBA
+[KJM_ENG] - TBA
+
+[KJM_KOR] - TBA
 
 ## Starting at a Company Guide
 
-TBA
+[CSG_ENG] - TBA
+
+[CSG_KOR] - TBA
+
+## Interview Questions - Absorbed into Rubric
+
+[TIQ_ENG] - interview_questions_eng.pdf
+
+[TIQ_KOR] - 면접 질문.pdf
