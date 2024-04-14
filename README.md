@@ -10,6 +10,8 @@ Developer Career Docs
 ## Korea Survival Guide for Expat Developers
 
 [SGE_ENG] - Korea Survival Guide for Expat Developers.pdf
+Saramin: most jobs and competitor analysis
+Jobplanet: Honest reviews, salaries, and interview reviews on site
 
 ## Entry Level Dev Checklist
 
