@@ -12,7 +12,9 @@ https://www.jobplanet.co.kr/welcome/index
 ## Korea Survival Guide for Expat Developers
 
 [SGE_ENG] - Korea Survival Guide for Expat Developers.pdf
+
 Saramin: most jobs and competitor analysis
+
 Jobplanet: Honest reviews, salaries, and interview reviews on site
 
 ## Entry Level Dev Checklist
@@ -22,6 +24,8 @@ https://github.com/jorgef/engineeringladders
 [ELD_ENG] - TBA
 
 [ELD_KOR] - TBA
+
+[BPC_ENG] - Backend Proficiency Calculator.xlsx
 
 ## Korea IT Job Market Report
 
